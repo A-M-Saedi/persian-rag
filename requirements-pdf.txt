@@ -1,0 +1,10 @@
+# Optional — PDF ingestion only.
+#
+# PyMuPDF is dual licensed under GNU AFFERO GPL 3.0 or an Artifex commercial
+# licence. It is kept out of requirements.txt so the core install carries no
+# copyleft dependency. Installing this file places your use of PyMuPDF under
+# one of those two licences. See THIRD-PARTY-NOTICES.md.
+#
+#   pip install -r requirements-pdf.txt
+
+PyMuPDF==1.26.5

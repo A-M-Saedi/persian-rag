@@ -1,0 +1,72 @@
+Copyright (c) 2026 Amirsaedi. All rights reserved.
+
+================================================================================
+PROPRIETARY SOFTWARE LICENSE — SOURCE AVAILABLE, NO REUSE RIGHTS
+================================================================================
+
+This software and its source code (the "Software") are made publicly readable
+for the sole purposes of demonstration, evaluation, portfolio review, and
+study. The Software is NOT open source and is NOT free software.
+
+1. GRANT OF RIGHTS
+
+   You are granted a limited, non-exclusive, non-transferable, revocable
+   permission to:
+
+   (a) view and read the source code of the Software;
+   (b) retain a local copy for the sole purpose of reading it; and
+   (c) quote short excerpts for commentary, review, teaching, or reporting,
+       with attribution to the copyright holder.
+
+2. RESTRICTIONS
+
+   Except as expressly permitted in Section 1, or as required by applicable
+   law, you may NOT:
+
+   (a) use the Software, in whole or in part, for any purpose, whether
+       personal, academic, or commercial;
+   (b) copy, reproduce, or store the Software other than as permitted above;
+   (c) modify, adapt, translate, or create derivative works of the Software;
+   (d) redistribute, republish, sublicense, sell, rent, lease, or otherwise
+       transfer the Software or any part of it;
+   (e) incorporate the Software or any part of it into another work, product,
+       service, or codebase;
+   (f) use the Software, or any part of it, as training data for machine
+       learning models; or
+   (g) remove, obscure, or alter any copyright, licence, or attribution notice.
+
+3. NO IMPLIED LICENCE
+
+   No rights are granted by implication, estoppel, or otherwise. All rights
+   not expressly granted in Section 1 are reserved by the copyright holder.
+
+4. PLATFORM TERMS
+
+   Where this repository is hosted on a platform whose terms of service grant
+   platform users a right to view or fork public repositories, that platform
+   grant is acknowledged and is not revoked by this licence. Such a grant
+   permits viewing and forking only; it does not grant any right to use,
+   modify, redistribute, or republish the Software, and the restrictions in
+   Section 2 continue to apply in full to any such copy or fork.
+
+5. THIRD-PARTY COMPONENTS
+
+   The Software depends on third-party packages that are separately licensed
+   by their own authors and are NOT covered by this licence. They are not
+   distributed with the Software; they are installed by the user from their
+   own sources. See THIRD-PARTY-NOTICES.md.
+
+6. NO WARRANTY
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL
+   THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY,
+   WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF,
+   OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+   SOFTWARE.
+
+7. CONTACT
+
+   For permission to use the Software beyond the terms above, including
+   commercial licensing, contact: amirsaedi2010@gmail.com

@@ -1,0 +1,65 @@
+{
+  "varzesh3_2410970": {
+    "url": "https://www.varzesh3.com/news/2410970/یک-بمب-خبری-دیگر-در-تراکتور",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "apparent_encoding": "utf-8",
+    "bytes": 188981,
+    "sha256": "4fc33c99f85c2c8d325a545e0ce16817460bf4db8085ed25ff30bd083c387ef7",
+    "fetched_at": "2026-08-12T08:59:47+03:30"
+  },
+  "mehr_6914285": {
+    "url": "https://www.mehrnews.com/news/6914285/صداقت-و-همدلی-مهم-ترین-بخش-سیره-پیامبر-ص-است-که-امروز-نیازمندیم",
+    "status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "apparent_encoding": "UTF-8",
+    "bytes": 117309,
+    "sha256": "e95bbe243bd93632ea3172441322834cf57fee22d8c9f69be85916b2bc277cdc",
+    "fetched_at": "2026-08-12T08:59:47+03:30"
+  },
+  "khabaronline_1940521": {
+    "url": "https://www.khabaronline.ir/news/1940521/",
+    "status": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "apparent_encoding": "UTF-8",
+    "bytes": 44272,
+    "sha256": "13b509d78659025526a5dd4ea34b58ba2cc48e5112717a64b025d8706d235412",
+    "fetched_at": "2026-08-12T08:59:48+03:30"
+  },
+  "yjc_9118143": {
+    "url": "https://www.yjc.ir/fa/news/9118143",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "apparent_encoding": "utf-8",
+    "bytes": 617400,
+    "sha256": "31ffe151c170ccba6e1cf84c0d5f60bea895b4e943321bbb53b574cc9afa3eee",
+    "fetched_at": "2026-08-12T08:59:48+03:30"
+  },
+  "zoomit_465572": {
+    "url": "https://www.zoomit.ir/report/465572-iran-internet-datacenter-shahkar-issues/",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "apparent_encoding": "utf-8",
+    "bytes": 526000,
+    "sha256": "36f5651bc7b5b224a98707ad31a61bb5c9617ab6420b51cfa8bd705125665e8a",
+    "fetched_at": "2026-08-26T09:18:06+03:30"
+  },
+  "hamshahri_1063549": {
+    "url": "https://www.hamshahrionline.ir/news/1063549/%D8%B2%D8%A7%DA%A9%D8%A7%D9%86%DB%8C-%D8%AA%D8%A8%D8%AF%DB%8C%D9%84-%D8%A7%D8%AA%D9%88%D8%A8%D9%88%D8%B3-%D9%87%D8%A7-%D8%A8%D9%87-%D9%87%DB%8C%D8%A8%D8%B1%DB%8C%D8%AF%DB%8C-%D9%BE%D8%B1%D9%87%D8%B2%DB%8C%D9%86%D9%87-%D8%A8%D9%88%D8%AF",
+    "status": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "apparent_encoding": "utf-8",
+    "bytes": 123900,
+    "sha256": "eeb1f0d52e5ef4be2d01665485bf33b9e31c7979c013aa50568d324d9c1afd7c",
+    "fetched_at": "2026-08-26T09:18:07+03:30"
+  },
+  "wikipedia_persian_gulf": {
+    "url": "https://fa.wikipedia.org/wiki/%D8%AE%D9%84%DB%8C%D8%AC_%D9%81%D8%A7%D8%B1%D8%B3",
+    "status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "apparent_encoding": "utf-8",
+    "bytes": 1118808,
+    "sha256": "a7d201ae92e17533482860f11d23103e545b47cd2d4450b7882ce6b46000fc96",
+    "fetched_at": "2026-08-26T09:18:09+03:30"
+  }
+}

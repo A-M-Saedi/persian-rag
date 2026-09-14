@@ -1,0 +1,11 @@
+# Normalize source to LF in the repository, whatever the contributor's OS.
+* text=auto eol=lf
+
+# Test fixtures are compared byte-for-byte (sha256 baselines). Keep them
+# exactly as recorded so a Windows checkout cannot rewrite their line endings.
+tests/fixtures/html/*.html -text
+tests/fixtures/*.json      -text
+
+# Windows scripts genuinely need CRLF.
+*.bat text eol=crlf
+*.cmd text eol=crlf
